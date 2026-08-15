@@ -1,0 +1,5 @@
+Kubernetes is used in modern cloud deployments.
+GitOps uses declarative configuration and version control.
+Kubernetes works very well with GitOps practices.
+Neo4j is a graph database.
+Qdrant is a vector database.

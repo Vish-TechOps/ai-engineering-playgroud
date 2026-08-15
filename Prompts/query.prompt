@@ -1,0 +1,5 @@
+Run rag_query_openai.py.
+Load env from .env first.
+Use model ANTHROPIC_MODEL=claude-haiku-4-5
+Query: "What is Agent Skills?"
+Show top 3 results with scores.

@@ -1,0 +1,4 @@
+Run rag_ingest_openai.py.
+Load env from .env first.
+Use model ANTHROPIC_MODEL=claude-haiku-4-5
+Report how many documents were ingested and confirm Qdrant collection is ready.
